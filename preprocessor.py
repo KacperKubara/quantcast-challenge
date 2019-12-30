@@ -30,7 +30,7 @@ class Preprocessor():
         with open(file_path, 'r') as file:
             self.text_preprocessed = self.remove_empty_lines(file.read().split("\n"))
             self.text_preprocessed = self.lower_text(self.text_preprocessed)
-            print(self.text_preprocessed[:30])
+            print(f"Sample of preprocessed text: \n\n{self.text_preprocessed[:10]}")
         self.file_save(file_path)
     
     def remove_empty_lines(self, text: List[str]) -> List[str]:
@@ -86,6 +86,6 @@ class Preprocessor():
 
 
 if __name__ == "__main__":
-    file_path = "./data/Coldplay.txt"
+    file_path = "./data/Taylor+Swift.txt"
     preprocessor = Preprocessor()
     preprocessor.run(file_path)

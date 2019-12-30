@@ -1,0 +1,34 @@
+Trained on Coldplay lyrics
+===================================================
+"kyle and sarah are apprehended by police after all
+i follow you
+don't a wart to down i couldn't"
+
+"as my wife says, it’s important to never stop dreaming and 
+i want to let the stare
+i'm alone in the dark
+and"
+
+"in this victory speech we really hear the use of me
+i wanna be and all the world
+the sour and i wo"
+
+"the work we do is always geared on us improving but it feels
+i wanna dis some sunning to me
+and i would"
+===================================================
+
+Trained on Taylor Swift lyrics
+===================================================
+"he’s still a bit away but working hard something that i said
+word i know i was still burned"
+
+"how do you predict the outcome of a snap election when i let you we don't know
+that i said, "i'll be the"
+
+"but such techniques failed to yield clear signals the way home
+and i walk anything you like you to"
+
+"global temperatures could rise sharply this century with the scars of the world world
+i was stay with yours"
+===================================================
